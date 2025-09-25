@@ -3,3 +3,8 @@
 </p>
 
 
+<p align="center">
+  <a href="https://leticiafer01.github.io/Refri-s/" target="_blank" style="font-size: 40px; text-decoration: none;">
+    🍹
+  </a>
+</p>
